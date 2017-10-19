@@ -2135,6 +2135,7 @@
 		-ms-appearance: none;
 		appearance: none;
 		display: block;
+		float: left;
 		margin-right: -2em;
 		opacity: 0;
 		width: 1em;
@@ -2261,6 +2262,7 @@
 			}
 
 			.box.features .features-row section {
+				float: left;
 				padding: 3em;
 				width: 50%;
 			}
@@ -2424,6 +2426,7 @@
 		}
 
 		.image.left {
+			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
 		}
