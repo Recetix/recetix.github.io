@@ -1809,17 +1809,17 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #4a148c;
+		color: #43b02a;
 		text-decoration: none;
 	}
 
 		a:hover {
-			color: #4a148c !important;
+			color: #43b02a !important;
 			border-bottom-color: transparent;
 		}
 
 	strong, b {
-		color: #4a148c;
+		color: #43b02a;
 		font-weight: 400;
 	}
 
@@ -1832,7 +1832,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #4a148c;
+		color: #43b02a;
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 0.5em 0;
@@ -2014,7 +2014,7 @@
 	}
 
 	label {
-		color: #4a148c;
+		color: #43b02a;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 300;
@@ -2407,7 +2407,7 @@
 			}
 
 			.icon.major.accentrecetix {
-				background: #4a148c;
+				background: #43b02a;
 				color: #ffffff;
 			}
 
@@ -2606,7 +2606,7 @@
 		}
 
 		table th {
-			color: #4a148c;
+			color: #43b02a;
 			font-size: 0.9em;
 			font-weight: 300;
 			padding: 0 0.75em 0.75em 0.75em;
